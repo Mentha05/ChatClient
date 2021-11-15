@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "umd",
+        "lib": ["es5", "es6", "dom"],
+        "rootDir": "./",
+        "baseUrl" : "./",
+        "moduleResolution": "node"
+    },
+    "include": [
+        "./**/*.ts"
+    ]
+}
